@@ -5,12 +5,11 @@ Soy un estudiante de **Ingeniería Informática** en la Universidad de León. Me
 ## 🌱 Sobre mí
 
 - 🔭 Actualmente estoy trabajando en proyectos de desarrollo de software y colaborando con la ADS.
-- 🌱 Aprendiendo sobre tecnologías como **Python**,y **Java**.
+- 🌱 Aprendiendo sobre tecnologías como **Python** y **Java**.
 - 🔒 Apasionado por la **ciberseguridad** y explorando nuevas técnicas y herramientas en este campo.
 - 👯 Buscando colaborar en proyectos de código abierto y mejorar mis habilidades en programación.
 
 ## 📊 Mi Actividad
-
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=av4sin&show_icons=true&theme=radical)
 
 ### Lenguajes que trabajo
@@ -23,10 +22,10 @@ Soy un estudiante de **Ingeniería Informática** en la Universidad de León. Me
 
 ## 🔧 Tecnologías y Herramientas
 
-![Tecnologías](URL-de-imagen-con-tecnologías)
+![Tecnologías](https://skillicons.dev/icons?i=python,java,git,kali,vscode)
 
 - **Lenguajes:** Python, Java
-- **Herramientas:** Git, Kali, VSCode
+- **Herramientas:** Git, Kali Linux, VSCode
 
 ## 🏆 Trofeos
 
@@ -35,6 +34,7 @@ Soy un estudiante de **Ingeniería Informática** en la Universidad de León. Me
 ## 📫 Cómo contactarme
 
 - 📧 [gmondb00@estudiantes.unileon.es](mailto:gmondb00@estudiantes.unileon.es)
+
 ---
 
 ¡Gracias por visitar mi perfil! 🚀
