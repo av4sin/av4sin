@@ -29,7 +29,7 @@ Soy un estudiante de **Ingeniería Informática** en la Universidad de León. Me
 
 ## 🔧 Tecnologías y Herramientas
 
-![Tecnologías](https://skillicons.dev/icons?i=python,java,git,kali,vscode,C)
+![Tecnologías](https://skillicons.dev/icons?i=python,java,git,kali,vscode,c)
 
 - **Lenguajes:** Python, Java, C
 - **Herramientas:** Git, Kali Linux, VSCode
