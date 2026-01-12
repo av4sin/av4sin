@@ -24,11 +24,11 @@ A continuación se detallan las tecnologías y herramientas con las que trabajo:
 | Categoría | Elementos Clave |
 | :--- | :--- |
 | **Lenguajes** | Python, Java, C |
-| **Herramientas** | Git, Kali Linux |
+| **Herramientas** | Git, Fedora, Kali Linux |
 | **Entorno** | VSCode |
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,c,git,kali,vscode" alt="Iconos de Tecnologías: Python, Java, C, Git, Kali Linux, VSCode" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,java,c,git,fedora,kali,vscode" alt="Iconos de Tecnologías: Python, Java, C, Git, Fedora, Kali Linux, VSCode" />
 </p>
 
 ---
