@@ -6,6 +6,8 @@ Soy **Gonzalo Mondragón Báscones**, estudiante de **Ingeniería Informática**
 
 Actualmente, soy miembro activo y **presidente** de la **Asociación de Desarrollo de Software (ADS)** de la universidad, lo que me permite colaborar en proyectos y expandir mis conocimientos técnicos de forma constante. Este repositorio contiene una muestra de mi trabajo y contribuciones.
 
+Puedes encontrar más info en mi web: [av4sin.github.io](https://av4sin.github.io/) y en mi [blog](https://av4sin.github.io/blog/)
+
 ---
 
 ## Áreas de Enfoque
